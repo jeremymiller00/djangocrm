@@ -1,3 +1,5 @@
+# temp file for setting up initial database
+
 import mysql.connector
 
 # create connection
